@@ -3,5 +3,6 @@
 
 As described in [this repository's README](https://github.com/RandomDSdevel/Learning-CPlusPlus-By-Reading-PP2E/blob/master/README.md), this link-traversable literate-programming document tree archives the results of my experiences learning to program in C++ by reading the contents of and going through the exercises in Bjarne Stroustrup's **Programming:  Principles and Practice Using C++**, Second Edition.  In this file, I provide a table of contents for this document tree.  
 
-<!--TO-DO/FIX-ME:  Actually **add** said ToC!  -->
+@s Table of Contents
 
+[Chapter 1](Chapters/Chapter 1/Index.lit)<!--Filed zyedidia/literate issue #17 (<https://github.com/zyedidia/Literate/issues/17>) to see if `lit` supports stringing nested ToCs together.  -->
